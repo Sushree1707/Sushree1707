@@ -21,6 +21,11 @@
 ### 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![OOPs](https://img.shields.io/badge/-OOPs-333?style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333?style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
 ![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat&logo=scikit-learn)

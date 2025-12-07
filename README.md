@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushree Somyakanti Swoyam Sudha</h1>
 
 <p align="center">
-🌱 Computer Science Undergrad | 💡 Aspiring Data Analyst & ML Enthusiast  
+🌱 Computer Science Grad | 💡 Aspiring Data Analyst & ML Enthusiast  
 📊 Python • SQL • Tableau • Scikit-learn • Power BI • PostgreSQL  
 🔍 Exploring AI in Agriculture & Visual Analytics  
 </p>
@@ -10,10 +10,9 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **B.Tech in CSE** at KIIT University  
+- 🎓 Completed **B.Tech in CSE** from KIIT University  
 - 🧠 Passionate about **Machine Learning, Data Analysis & AI-driven insights**  
-- 🛠 Project Experience: **Crop Recommendation System**, **Edge Resource Allocation**, **Sales Dashboards**  
-- 📈 Former **Data Analyst Intern at NALCO**  
+- 🛠 Project Experience: **Crop Recommendation System**, **Edge Resource Allocation**, **Sales Dashboards**    
 - 📚 Currently learning **Advanced ML, Tableau dashboards & Power BI**  
 - ✨ Goal: Build impactful data solutions for real-world problems  
 

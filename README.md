@@ -1,12 +1,7 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://github.com/Sushree1707/Sushree1707/blob/main/github-banner.png" width="100%" alt="Banner">
-</p>
-
 <h1 align="center">Hi 👋, I'm Sushree Somyakanti Swoyam Sudha</h1>
 
 <p align="center">
-🌱 Computer Science Grad | 💡 Aspiring Data Analyst & ML Enthusiast  
+🌱 Computer Science Undergrad | 💡 Aspiring Data Analyst & ML Enthusiast  
 📊 Python • SQL • Tableau • Scikit-learn • Power BI • PostgreSQL  
 🔍 Exploring AI in Agriculture & Visual Analytics  
 </p>
@@ -15,9 +10,10 @@
 
 ## 🚀 About Me
 
-- 🎓 Completed **B.Tech in CSE** from KIIT University  
+- 🎓 Pursuing **B.Tech in CSE** at KIIT University  
 - 🧠 Passionate about **Machine Learning, Data Analysis & AI-driven insights**  
 - 🛠 Project Experience: **Crop Recommendation System**, **Edge Resource Allocation**, **Sales Dashboards**  
+- 📈 Former **Data Analyst Intern at NALCO**  
 - 📚 Currently learning **Advanced ML, Tableau dashboards & Power BI**  
 - ✨ Goal: Build impactful data solutions for real-world problems  
 
@@ -73,19 +69,11 @@ Interactive dashboard showing outlet performance, sales trends, and customer beh
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sushree1707&theme=onedark&margin-w=10" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
   <a href="mailto:sushreesssudha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/sushree-s-s-sudha-b98a69247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sushree-s-s-s-sudha-b98a69247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Sushree1707"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
